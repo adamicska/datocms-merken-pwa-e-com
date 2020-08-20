@@ -2,7 +2,7 @@
   background: #ffffff;
   color: black;
   //border-bottom: 1px solid white;
-  box-shadow: 0 16px 0 black;
+  box-shadow: 0 5px 0 rgba(0,0,0,0.5);
   //transform: rotateZ(8deg) skew(-2deg, -10deg) translateY(-10%);
   margin: 50px;
 }
@@ -21,7 +21,7 @@
 
 .Header__summary {
   text-decoration: none;
-  color: white;
+  color: black;
   text-align: center;
   cursor: pointer;
 
