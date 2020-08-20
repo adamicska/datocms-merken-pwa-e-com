@@ -36,7 +36,7 @@ const Layout = ({ children, site }) => (
       </div>
       <div className="Wrap" >
         <div className="Footer">
-          This website is being built for Merken Store.
+          This website is being built for Merken &copy.
         </div>
       </div>
     </div>
