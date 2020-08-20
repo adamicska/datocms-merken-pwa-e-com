@@ -2,7 +2,7 @@
   background: #ffffff;
   color: black;
   //border-bottom: 1px solid white;
-  box-shadow: 0 5px 0 rgba(0,0,0,0.5);
+  box-shadow: 0 10px 0 0 rgba(0,0,0,0.2);
   //transform: rotateZ(8deg) skew(-2deg, -10deg) translateY(-10%);
   margin: 50px;
 }
@@ -17,6 +17,9 @@
   padding: 20px 0;
   font-family: "times new roman", times, serif;
   font-style: italic;
+  color: black;
+  text-decoration: none;
+  font-size: 24px;
 }
 
 .Header__summary {
