@@ -18,6 +18,11 @@
 
   .snip-btn--right {
     background-color: #63c664;
+    color: white;
+
+    &:hover {
+      transform: translate(12px, 50%);
+    }
   }
 
   .snip-layout__main-container {
@@ -27,6 +32,7 @@
 
   .snip-header__total {
     border-radius: 0;
+    color: white;
   }
 
   .snip-ico--close {
